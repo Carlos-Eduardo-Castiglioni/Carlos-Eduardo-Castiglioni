@@ -1,4 +1,3 @@
-# 💫 About Me:
 📘Ensino Médio na FEG (Fundação Educacional Guaçuana)<br>📘Curso Técnico ETEC Pedro Ferreira Alves<br>💻Desenvolvimento de Sistema 
 
 
