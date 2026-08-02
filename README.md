@@ -1,5 +1,5 @@
 Olá!! Seja bem vindo, eu sou o Carlos Eduardo <br>
-📘Ensino Médio na FEG (Fundação Educacional Guaçuana)<br>📘Cursos <br>Técnico ETEC Pedro Ferreira Alves<br>💻Desenvolvimento de Sistema
+📘Ensino Médio na FEG (Fundação Educacional Guaçuana)<br>📘Cursos: <br> Técnico ETEC Pedro Ferreira Alves<br> Centro Universitário Adventista de São Paulo <br> 💻Desenvolvimento de Sistema
 
 
 ## 🌐 Socials:
